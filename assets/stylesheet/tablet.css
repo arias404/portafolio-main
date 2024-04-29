@@ -1,0 +1,191 @@
+
+
+
+/* Header */
+.header {
+    z-index: 99;
+}
+
+nav.nav_menu.active {
+    width: 50%;
+    margin-left: 50%;
+    top: 5.9rem;
+}
+
+/* Home */
+
+.home {
+    background-color: var(--medio-bajo);
+}
+
+.home_info {
+    z-index: 1;
+    margin-top: 0px;
+    margin-bottom: -40px;
+}
+
+.home_text-2 {
+    color: var(--medio);
+    font-weight: 600;
+    font-size: 3.6rem;
+}
+
+
+/* .image_home {
+    max-width: 8rem;
+} */
+
+.container_image-home {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.image_home {
+    max-width: 100%;
+    transition: .4s;
+    animation: image 2s;
+    margin-top: -120px;
+    margin-bottom: 0px;
+    z-index: 2;
+    position: relative;
+    opacity: .8;
+}
+
+.puntos_home {
+    max-width: 60%;
+    margin-top: -100px;
+    margin-right: 0px;
+    opacity: .5;
+}
+
+.links {
+    padding: 0;
+    flex-direction: row;
+    max-width: 100%;
+    align-items: end;
+}
+
+.container_text-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home_text-1 {
+    margin-right: 1rem;
+    font-size: 2.4rem;
+}
+
+
+
+.home_text-3 {
+    background-color: var(--color-oscuro);
+    padding: 5px;
+    border: 1.5px solid var(--white);
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.text-type::after {
+    background-color: var(--color-oscuro);
+}
+
+.cv_button {
+    color: var(--jet);
+    border-bottom: 3px solid var(--white);
+    border-top: 1.5px solid var(--white);
+    border-left: 3px solid var(--white);
+    border-right: 1.5px solid var(--white);
+    background-color: var(--bajo);
+
+}
+
+.contact_button {
+    color: var(--jet);
+    border-top: 1.5px solid var(--white);
+    border-left: 3px solid var(--white);
+    border-right: 1.5px solid var(--white);
+    border-bottom: 3px solid var(--white);
+    background-color: var(--bajo);
+}
+
+/* Sobre mi */
+
+.sobreMi {
+    padding: 5rem 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container_content-sobreMi {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container_texto-sobreMi {
+    padding: 1.6rem;
+}
+
+.title_sobreMi {
+    font-size: 3rem;
+}
+
+.texto_sobreMi {
+    font-size: 1.8rem;
+    line-height: 2.5rem;
+}
+
+.container_image-sobreMi {
+    width: 100%;
+    margin-top: 1.8rem;
+}
+
+/* Habilidades */
+.habilidades {
+    margin-top: -1px;
+    padding-bottom: 8rem;
+    position: relative; 
+    background: rgb(191,172,149);
+    background: linear-gradient(0deg, rgba(191,172,149,1) 29%, rgba(148,135,119,1) 55%, rgba(64,62,59,1) 95%);
+    /* background: rgb(191,172,149);
+    background: linear-gradient(0deg, rgba(191,172,149,1) 7%, rgba(64,62,59,1) 72%); */
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+}
+
+.cards_container--habilidades {
+    column-gap: 4rem;
+}
+
+/* Formación */
+
+.cards_container--formacion {
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.cards--formacion {
+    margin: 0 2rem 3rem 2rem;
+}
+
+/* Proyectos */
+
+.cards--proyectos {
+    max-width: 48rem;
+}
+
+.container_btn--proyectos button {
+    width: 20.6rem;
+}
+
+/* Contacto */
+.container--contacto {
+    margin: 0 auto;
+    padding: 20px;
+    width: 100%;
+    
+    
+}
