@@ -67,6 +67,7 @@ div.btn {
 .container_image-home {
     width: 100%;
     padding-right: 4rem;
+    margin-bottom: -130px;
 }
 
 .image_home {
@@ -85,8 +86,8 @@ div.btn {
     background-size: 100% 100% ;
     background-repeat: no-repeat;
     background-position: center;
-    border-radius: 50%;
-    border: 5px solid var(--medio-bajo);
+    border-radius: 40%;
+    border: 1px solid var(--medio-bajo);
     width: 100%;
     margin: 130px 0px -130px 0px;
     padding-top: 60px;
@@ -98,14 +99,14 @@ div.btn {
 
 .home_info::before{
     content: '';
-    border-radius: 50%;
+    border-radius: 40%;
     background-image: url("../images/patron.png");
     background-size: cover;
-    width: 100%; /* Ajusta según sea necesario */
-    height: 100%; /* Ajusta según sea necesario */
-    position: absolute; /* O ajusta según sea necesario */
-    top: 0; /* O ajusta según sea necesario */
-    left: 0; /* O ajusta según sea necesario */
+    width: 100%;
+    height: 100%;
+    position: absolute; 
+    top: 0; 
+    left: 0; 
     opacity: 0.1;
     z-index: -1;
 }
@@ -231,12 +232,20 @@ div.btn {
 }
 
 .container_content-sobreMi {
+    display: flex;
     flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
 }
 
 .container_texto-sobreMi {
     width: 70%;
     padding: 0 5% 0 3rem;
+}
+
+.container_image-sobreMi{
+    width: 40%;
 }
 
 .title_sobreMi {
@@ -335,6 +344,10 @@ div.btn {
 .formacion h1 {
     padding-top: 8rem;
     font-size: 3rem;
+}
+
+.cards_container--formacion{
+    flex-direction: row;
 }
 
 .cards--formacion:hover {

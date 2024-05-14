@@ -387,7 +387,7 @@ span+span {
     position: absolute;
     right: 0;
     color: var(--jet);
-    background-color: var(--medio-bajo);
+    background-color: var(--color-oscuro);
     width: 95%;
     animation: typing 4s steps(30) alternate infinite;
 }
@@ -484,6 +484,10 @@ span+span {
     font-size: 2.4rem;
     letter-spacing: .1rem;
     padding-top: 6rem;
+}
+
+.container_content-sobreMi {
+    flex-direction: row-reverse;
 }
 
 .container_texto-sobreMi {

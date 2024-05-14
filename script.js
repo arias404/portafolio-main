@@ -5,26 +5,6 @@ const inputEmail = document.querySelector('#email');
 const flagsElement = document.getElementById('flags');
 const textsToChange = document.querySelectorAll('[data-section]');
 
-
-
-var a = 1;
-var b = 2;
-var m = a;
-
-
-raiz();
-
-function raiz (x){
-    x = prompt("Dame el valor de x",0);
-    y = Math.E**x - x**2 - x - 1
-    return y;
-}
-
-
-var ll = raiz();
-console.log(ll);
-
-
 /**===== Mouseover habilidades =====**/
 
 document.addEventListener('DOMContentLoaded', function() {
