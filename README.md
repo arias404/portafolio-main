@@ -6,10 +6,16 @@
 <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="JavaScript" width="50"/>
 
 ---
-
-![portafolio-presentacion](https://user-images.githubusercontent.com/110046283/202334878-7ce721f1-db39-4388-bc39-8f9d141015a3.png)
+## Juan Arias G
+![portafolio-presentacion](https://github.com/arias404/portafolio-main/blob/main/Presentacion_portafolio.jpg?raw=true)
 
 ---
 
-[**Link del sitio web** ✌](https://mariana-am-portafolio.netlify.app/)
+[**Link del sitio web** 🤳](https://mariana-am-portafolio.netlify.app/)
 ---
+
+### Features
+
+- Diseño responsivo.
+- Codigo comentado.
+- Estructura coherente.
