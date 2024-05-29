@@ -9,15 +9,15 @@
 
     "home": {
         "home_text-1": "Hi! I'm",
-        "home_text-3": "Front-End Web Developer",
-        "parrafo-info": "Statistics and programming student focused on Frontend Web Development. As a person who loves intuitive and aesthetically pleasing designs I seek to create projects that provide the best user experience.",
+        "home_text-3": "Front & Back-End Web Developer",
+        "parrafo-info": "I am a young man focused on Web Development in general, as a person who loves intuitive and aesthetically pleasing designs I seek to create projects that provide the best experience for the user.",
         "cv_button": "Download CV",
         "contact_button": "Contact"
     },
 
     "sobre-mi": {
         "title": "About me",
-        "texto_sobreMi": "I'm a Statistics undergraduate student and a self-taught Web Development student focused on Frontend programming.<br>I aspire to get a job in the Web Development world, gain experience, new knowledge and strengthen my professional life.<br><br>I'm an empathetic and enthusiastic person, with skills focused on teamwork, assertive communication, problem solving, responsible and proactive, I like to learn from others and continuously improve myself."
+        "texto_sobreMi": "Besides being a senior student in Software Development, I am also a self-taught person who is constantly learning.<br><br>I have experience in the Web Development field. My first website I did for a coffee cooperative called Cafioccidente.<br><br>Since my first website. Solo he concentrado mi tiempo en mejorar mis habilidades, no solo aprendiendo nuevas tecnologias, si no tambien, consolidando mis conocimientos previos."
     },
 
     "habilidades": {
@@ -26,21 +26,21 @@
 
     "formacion": {
         "title": "Training",
-        "formacion1": "Statistic",
-        "tiempo-formacion1": "2019 - In progress",
+        "formacion1": "Software Development",
+        "tiempo-formacion1": "2022 - En curso",
         "formacion2": "Full-Stack Developer",
-        "tiempo-formacion2": "2022 - In progress",
-        "formacion3": "Accounting for Commercial and Financial Transactions"
+        "tiempo-formacion2": "2021 - 2023",
+        "formacion3": "Multimedia Design and Integration"
     },
 
     "proyectos": {
         "title": "Projects",
-        "title-proyecto1": "Hangman Game",
-        "info-proyecto1": "A game where the user must guess the secret word with a certain number of chances. The word is chosen randomly by the program and the user will lose the moment the gallows is completed.",
+        "title-proyecto1": "Cafiocciente - Web",
+        "info-proyecto1": "Informative website for Colombian coffee cooperative. This site was my first project as a web developer, however it is fully functional and responsive.",
         "title-proyecto2": "Portfolio",
         "info-proyecto2": "My personal web portfolio, where you can find some of my most outstanding projects, my technical skills and a bit about my background.",
-        "title-proyecto3": "Text Encryptor",
-        "info-proyecto3": "An encryptor where the user can type a text and the encryptor encrypts it with pre-programmed keys. The encryptor can also decrypt the text."
+        "title-proyecto3": "GlassVisison - E-commerce",
+        "info-proyecto3": "A fully functional E-commerce. This is my last project, an E-commerce for GlassVision optics, located in Cali-Colombia."
     },
 
     "contacto": {

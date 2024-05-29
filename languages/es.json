@@ -9,15 +9,15 @@
 
     "home": {
         "home_text-1": "Hola! Soy",
-        "home_text-3": "Desarrolladora web Front-End",
-        "parrafo-info": "Estudiante de Estadistica y programación enfocada al Desarrollo Web Frontend. Como persona amante a los diseños intuitivos y estéticamente agradables busco crear proyectos que brinden la mejor experiencia para el usuario.",
+        "home_text-3": "Desarrollador web Front & Back",
+        "parrafo-info": "Soy un joven enfocado al Desarrollo Web en general, como persona amante a los diseños intuitivos y estéticamente agradables busco crear proyectos que brinden la mejor experiencia para el usuario.",
         "cv_button": "Descargar CV",
         "contact_button": "Contacto"
     },
 
     "sobre-mi": {
         "title": "Sobre mí",
-        "texto_sobreMi": "Soy estudiante del pregrado de Estadística y estudiante autodidacta de Desarrollo Web enfocado en programación Frontend.<br>Aspiro conseguir empleo en el mundo del Desarrollo Web, adquirir experiencia, nuevos conocimientos y fortalecer mi vida profesional.<br><br>Soy una persona empática y entusiasta, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, resolución de problemas, responsable y proactiva, me gusta aprender de los demás y superarme continuamente."
+        "texto_sobreMi": "Ademas de ser estudiante de ultimo año en Desarrollo de Software, tambien soy un autodidacta que se encuentra en constante aprendizaje.<br><br>Cuento con experiencia en el campo del Desarrollo Web. Mi primer sitio web lo hice para una cooperativa de cafeteros llamada Cafioccidente.<br><br>Desde mi primer pagina web. Solo he concentrado mi tiempo en mejorar mis habilidades, no solo aprendiendo nuevas tecnologias, si no tambien, consolidando mis conocimientos previos."
     },
 
     "habilidades": {
@@ -26,21 +26,21 @@
 
     "formacion": {
         "title": "Formación",
-        "formacion1": "Estadística",
-        "tiempo-formacion1": "2019 - En curso",
-        "formacion2": "Desarrolladora Full-Stack",
-        "tiempo-formacion2": "2022 - En curso",
-        "formacion3": "Contabilización de Operaciones Comerciales y Financieras"
+        "formacion1": "Desarrollo de Software",
+        "tiempo-formacion1": "2022 - En curso",
+        "formacion2": "Desarrollador Full-Stack",
+        "tiempo-formacion2": "2021 - 2023",
+        "formacion3": "Diseño e Integracion Multimedia"
     },
 
     "proyectos": {
         "title": "Proyectos",
-        "title-proyecto1": "Juego del Ahorcado",
-        "info-proyecto1": "Un juego donde el usuario debe adivinar la palabra secreta con un cierto número de oportunidades. La palabra se escoge de forma aleatoria por el programa y el usuario perderá en el momento en que la horca se complete.",
-        "title-proyecto2": "Portafolio",
+        "title-proyecto1": "Cafiocciente - Web",
+        "info-proyecto1": "Pagina informativa para cooperativa cafetera Colombiana. Esta pagina fue mi primer proyecto como Desarrollador Web, aun asi es totalmente funcional y responsive.",
+        "title-proyecto2": "MI PORTAFOLIO",
         "info-proyecto2": "Mi portafolio web personal, donde se encuentran algunos de mis proyectos más destacados, mis habilidades técnicas y un poco sobre mi formación.",
-        "title-proyecto3": "Encriptador de Texto",
-        "info-proyecto3": "Un ecriptador donde el usuario puede escribir un texto y el encriptador lo codifica con llaves ya programadas. El encriptador también permite desencriptar el texto."
+        "title-proyecto3": "GlassVisison - E-commerce",
+        "info-proyecto3": "Un E-commerce total mente funcional. Este es mi ultimo proyecto, un E-commerce para la optica GlassVision, ubicada en Cali-Colombia."
     },
 
     "contacto": {
