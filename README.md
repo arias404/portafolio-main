@@ -11,7 +11,7 @@
 
 ---
 
-[**Link del sitio web** 🤳](https://mariana-am-portafolio.netlify.app/)
+[**Link del sitio web** 🤳](https://portafolio-ja.netlify.app/)
 ---
 
 ### Features
